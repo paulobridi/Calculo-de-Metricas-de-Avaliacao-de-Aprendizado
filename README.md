@@ -1,7 +1,5 @@
 # Calculo-de-Metricas-de-Avaliacao-de-Aprendizado
 
-Entendido! Vamos criar um projeto para calcular as métricas de avaliação de aprendizado de máquina com base em uma matriz de confusão. Aqui está um plano inicial para o projeto:
-
 ---
 
 ### **Plano do Projeto:**
@@ -144,9 +142,3 @@ F-Score: 0.87
 ```
 
 ---
-
-### Próximos Passos:
-1. Teste o código com diferentes valores de matriz de confusão.
-2. Adapte o código conforme necessário para atender a requisitos específicos do projeto.
-
-Se precisar de mais ajuda ou ajustes, é só avisar! 🚀
